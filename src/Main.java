@@ -14,9 +14,9 @@ public class Main {
     }
 
     public void initProcess() {
-        Konto konto1 = new Konto(1, 1000);
-        Konto konto2 = new Konto(2, 3000);
-        Konto konto3 = new Konto(3, 2000);
+        Konto konto1 = new Konto(1, 2323);
+        Konto konto2 = new Konto(2, 3321);
+        Konto konto3 = new Konto(3, 2043);
 
         kontoStorage.addKonto(konto1);
         kontoStorage.addKonto(konto2);
