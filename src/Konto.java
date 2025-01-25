@@ -1,6 +1,5 @@
-package org.example;
 
-public class Konto {
+Public class Konto {
     private int idUser;
     private double saldo;
 
